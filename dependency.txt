@@ -1,0 +1,4 @@
+fake-useragent
+colorama
+aiohttp
+httpx
